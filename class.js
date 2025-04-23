@@ -188,17 +188,17 @@
 
     //Protoypes    
 
-    class person{
-        constructor(firstname, lastname){
-            this.firstname=firstname;
-            this.lastname=lastname;
+    // class person{
+    //     constructor(firstname, lastname){
+    //         this.firstname=firstname;
+    //         this.lastname=lastname;
 
-        }
-        greet(){
-            console.log("hi there");
-        }
-    }
-    person.prototype.introduce = function(){
-        console.log("Hi","I'm",this.firstname);
-    };
-    person.prototype.favoritecolor="green"
+    //     }
+    //     greet(){
+    //         console.log("hi there");
+    //     }
+    // }
+    // person.prototype.introduce = function(){
+    //     console.log("Hi","I'm",this.firstname);
+    // };
+    // person.prototype.favoritecolor="green"
