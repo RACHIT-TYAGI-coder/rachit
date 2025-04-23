@@ -60,7 +60,11 @@
 // let arr2=[6,7];
 // addFourNumbers(...arr1,...arr2);
 
-function someFunction(para1, ...para2) {
-    console.log(para1, para2);
-}
-someFunction("hi","there","how are you");
+// function someFunction(para1, ...para2) {
+//     console.log(para1, para2);
+// }
+// someFunction("hi","there","how are you");
+
+
+
+//class
